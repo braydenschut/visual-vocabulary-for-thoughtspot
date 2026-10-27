@@ -62,6 +62,11 @@ The charts are examples intended as a visualization reference and starting point
 
 This project adapts the Visual Vocabulary concept to demonstrate additional visualization possibilities in ThoughtSpot.
 
+## License
+
+This product is licensed under MIT License.
+See the [LICENSE] (LICENSE) file for details.
+
 ## AI Assistance
 
 Muze AI and ChatGPT were used to assist with custom chart development, formatting, and the Overview page.
