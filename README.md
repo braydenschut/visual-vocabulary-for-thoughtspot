@@ -2,7 +2,7 @@
 
 A collection of **50+ custom chart types built in ThoughtSpot Muze Studio**, organized by analytical purpose to help users explore different ways to visualize and understand data.
 
-Inspired by the [Financial Times' Visual Vocabulary](https://github.com/Financial-Times/chart-doctor/tree/main/visual-vocabulary), [Andy Kriebel's Tableau Visual Vocabulary](https://public.tableau.com/views/VisualVocabulary/VisualVocabulary), and [Bibek Shrestha's ThoughtSpot custom chart showcase](https://community.thoughtspot.com/s/feed/0D5TV00001BJ5j3?).
+Inspired by the [Financial Times' Visual Vocabulary](https://github.com/Financial-Times/chart-doctor/tree/main/visual-vocabulary), [Andy Kriebel's Tableau Visual Vocabulary](https://public.tableau.com/views/VisualVocabulary/VisualVocabulary), and [Bibek Shrestha's ThoughtSpot Amuzing Chart Skills](https://github.com/BibekTS/Thoughtspot-Amuzing-chart-skills).
 
 ## Overview
 
