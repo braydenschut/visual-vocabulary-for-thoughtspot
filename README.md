@@ -65,7 +65,7 @@ This project adapts the Visual Vocabulary concept to demonstrate additional visu
 ## License
 
 This product is licensed under MIT License.
-See the [LICENSE] (LICENSE) file for details.
+See the [LICENSE](LICENSE) file for details.
 
 ## AI Assistance
 
